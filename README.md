@@ -1,1 +1,3 @@
 # Decentralized-Law-Enforcement-Aadhar-and-Judiciary-System-with-AI-Judge
+
+The Indian Judiciary and the Law Enforcement have a very big burden of handling and resolving millions of disputes among the citizens of India every year. The sheer number of the cases being filed are much much higher compared to the no. of people handling them. Also the tangible nature of the files and reports regarding any case, thanks to being filed in papers, not only makes it very easy for someone to corrupt it  but also is very inefficient. So we thought why not make them online? But being online also requires more effort to make it secure. The only thing that came to our mind when we wanted something to be online and at the same time be secure, is the Blockchain Technology.
