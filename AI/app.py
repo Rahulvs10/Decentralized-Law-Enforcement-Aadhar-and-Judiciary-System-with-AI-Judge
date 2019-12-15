@@ -4,8 +4,6 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
 from flask import Flask, request, jsonify
-import smtplib
-import email.message
 from waitress import serve
 
 app = Flask(__name__)
